@@ -38,7 +38,12 @@ header ul{
     font-size: 15pt;
 }
 
-header li{
+header a:visited, a{
+    text-decoration: none;
+    color: #000;
+}
+
+header li {
     padding: 1rem 1rem;
 }
 
